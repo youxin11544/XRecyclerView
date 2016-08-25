@@ -1,6 +1,8 @@
 # XRecyclerView
 RecyclerView  下拉刷新，上拉加载
 
+* 如果让你学到了东西，请加个心，耶！
+
  *   这里做的是一种思想。 我一直强调思想很重要。呵呵，欢迎大牛有更好的思想的人吐槽。
  *
  *   这里 刷新的框架用的是 https://github.com/OrangeGangsters/SwipyRefreshLayout
